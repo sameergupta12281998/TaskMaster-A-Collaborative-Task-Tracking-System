@@ -1,0 +1,29 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+*.env
+
+# Uploads
+uploads/
+test-uploads/
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
