@@ -200,3 +200,7 @@ All configuration is externalized via environment variables:
 | `CORS_ORIGINS` | `http://localhost:3000` | Allowed CORS origins |
 | `LOG_LEVEL` | `INFO` | Application log level |
 TaskMaster: Collaborative Task Tracking System.
+
+
+
+#updated PR
